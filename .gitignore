@@ -7,7 +7,7 @@ vite.config.ts.*
 .vercel
 .claude/settings.local.json
 .mcp.json
-
+/wrapper/data/*
 # Environment files with secrets
 .env
 .env.*
